@@ -1,0 +1,14 @@
+{
+  "name": "@mobility/scale",
+  "version": "1.0.0",
+  "description": "module designed for scaling elements in Mobility apps",
+  "main": "index.js",
+  "repository": "https://bitbucket.hyundai.ru/scm/mod/scale.git",
+  "author": "Paul Zamshin (kaizaro78@gmail.com)",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "flow-bin": "^0.131.0",
+    "flow-remove-types": "^2.131.0"
+  }
+}
