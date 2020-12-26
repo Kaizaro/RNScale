@@ -1,11 +1,11 @@
 {
-  "name": "@mobility/scale",
+  "name": "@kaizaro/react-native-scale",
   "version": "1.0.0",
-  "description": "module designed for scaling elements in Mobility apps",
+  "description": "module designed for scaling elements in RN apps",
   "main": "index.js",
-  "repository": "https://bitbucket.hyundai.ru/scm/mod/scale.git",
-  "author": "Paul Zamshin (kaizaro78@gmail.com)",
-  "license": "MIT",
+  "repository": "https://github.com/Kaizaro/RNScale",
+  "author": "Pavel Zamshin (kaizaro78@gmail.com)",
+  "license": "Apache License 2.0",
   "private": true,
   "devDependencies": {
     "flow-bin": "^0.131.0",
